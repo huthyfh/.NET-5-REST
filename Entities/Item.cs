@@ -11,4 +11,3 @@ namespace Catalog.Entities
     }
 }
 
-//try
