@@ -10,3 +10,5 @@ namespace Catalog.Entities
         public DateTimeOffset CreatedDate { get; init; }
     }
 }
+
+//try
